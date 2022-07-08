@@ -1,0 +1,5 @@
+<meta>
+	<info author="Nicolas Ecm" version="1.0" name="Sistema de guardado" type="script" />
+	<script src="server.lua" type="server" />
+   	<script src="start.lua" type="server" />
+</meta>

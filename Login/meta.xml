@@ -1,0 +1,16 @@
+<meta>
+<info name="HBT_LoginPanel" author="John_Scott" version="1.2" type="script" />
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+        <file src="login_bg.jpeg" />
+        <file src="login_window.png" />
+        <file src="register_window.png" />
+        <file src="login.png" />
+        <file src="register.png" />
+        <file src="register2.png" />
+        <file src="guest.png" />
+        <file src="sh.png" />
+	<file src="shr.png" />
+	<file src="shr2.png" />
+        <file src="shg.png" />
+</meta>
